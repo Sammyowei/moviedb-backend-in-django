@@ -9,7 +9,7 @@ env/
 __pycache__/
 
 # Ignore logs
-*.log
+config.py
 
 # Ignore OS-specific files
 .DS_Store
